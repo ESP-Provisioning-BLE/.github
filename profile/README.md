@@ -4,9 +4,9 @@ Welcome to the **ESP Provisioning BLE** GitHub organization, a community-driven 
 
 ## Origin
 
-This organization exists thanks to the work of [@ogabrielinacio](https://github.com/ogabrielinacio), who created [`esp_provisioning_ble`](https://github.com/ESP-Provisioning-BLE/esp_provisioning_ble) from scratch to fill a real gap in the Flutter/Dart ecosystem. The package was born out of a practical need (there was simply no working solution on pub.dev at the time) and Gabriel built it on his own time and effort.
+This organization exists thanks to the work of [@ogabrielinacio](https://github.com/ogabrielinacio), who created [`esp_provisioning_ble`](https://github.com/ESP-Provisioning-BLE/esp_provisioning_ble) from scratch. Gabriel built it on his own time and effort, and it has been useful to many developers since.
 
-As Gabriel shifted his professional focus, [@ivanhercaz](https://github.com/ivanhercaz) stepped in to continue the work, and together they agreed to move the project under this organization to give it a neutral, community-oriented home.
+After some time, and with personal stuff pulling his attention elsewhere, Gabriel decided to pass the torch. [@ivanhercaz](https://github.com/ivanhercaz) stepped in to continue the work, and together they agreed to move the project under this organization to give it a neutral, community-oriented home.
 
 Gabriel remains credited as the original author and is always welcome to contribute. This transition is a handoff, not a fork, and the project carries its full history with it.
 
@@ -20,13 +20,13 @@ The organization is not closed to growing. If related tooling emerges around ESP
 
 ## Current status
 
-The project is in active transition. The repository will be transferred to this organization, and work is underway to:
+The transition is complete. The repository is now under this organization, and active maintenance has resumed. The current focus is on:
 
-- Triage and address existing open issues.
-- Review and manage pending pull requests.
-- Define a public roadmap that outlines the direction for upcoming development and maintenance.
+- Triaging and addressing existing open issues.
+- Reviewing and managing pending pull requests.
+- Defining a public roadmap for upcoming development and maintenance.
 
-This is a living project again, and contributions, feedback, and ideas are genuinely welcome.
+Contributions, feedback, and ideas are genuinely welcome.
 
 ## Get involved
 
