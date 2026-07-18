@@ -33,6 +33,7 @@ carries its full history with it.
 Right now, the organization hosts a single package:
 
 - **[esp_provisioning_ble](https://github.com/ESP-Provisioning-BLE/esp_provisioning_ble)**: A Flutter/Dart package for Wi-Fi provisioning over BLE on Espressif devices, using the ESP-IDF Unified Provisioning protocol.
+- **[esp_provisioning_test_firmware](https://github.com/ESP-Provisioning-BLE/esp_provisioning_test_firmware)**: Test firmware target for esp_provisioning_ble, it uses the ESP-IDF Unified Provisioning protocol. Not for production use. 
 
 This organization is open to growing. If related tooling emerges around ESP BLE provisioning, this could become a home for that too.
 
