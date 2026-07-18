@@ -1,14 +1,32 @@
 # ESP Provisioning BLE
 
+<p align="center">
+  <a href="https://espprovble.dev">
+    <img src="https://espprovble.dev/assets/brand/module-readme-banner.png" alt="ESP Provisioning BLE: provision ESP32 modules over Bluetooth Low Energy" width="100%">
+  </a>
+</p>
+
+<p>
+  <a href="https://pub.dev/packages/esp_provisioning_ble"><img alt="pub.dev" src="https://img.shields.io/pub/v/esp_provisioning_ble?style=flat-square&labelColor=0b1220&color=38bdf8"></a>
+  <a href="https://github.com/ESP-Provisioning-BLE/esp_provisioning_ble/blob/main/LICENSE"><img alt="MIT" src="https://img.shields.io/badge/license-MIT-38bdf8?style=flat-square&labelColor=0b1220"></a>
+  <a href="https://espprovble.dev"><img alt="Website" src="https://img.shields.io/badge/web-espprovble.dev-22d3ee?style=flat-square&labelColor=0b1220&color=38bdf8"></a>
+</p>
+
+<p>
+  <strong>Wi-Fi provisioning for ESP32, over Bluetooth Low Energy.</strong><br>
+  Community-maintained Flutter/Dart toolkit built on Espressif's <code>protocomm</code> protocol.
+</p>
+
 Welcome to the **ESP Provisioning BLE** GitHub organization, a community-driven space dedicated to the development and long-term maintenance of open source tooling for ESP BLE provisioning on Flutter and Dart.
 
 ## Origin
 
-This organization exists thanks to the work of [@ogabrielinacio](https://github.com/ogabrielinacio), who created [`esp_provisioning_ble`](https://github.com/ESP-Provisioning-BLE/esp_provisioning_ble) from scratch. Gabriel built it on his own time and effort, and it has been useful to many developers since.
+This organization exists thanks to the work of [@ogabrielinacio](https://github.com/ogabrielinacio), who created and open-sourced [`esp_provisioning_ble`](https://github.com/ESP-Provisioning-BLE/esp_provisioning_ble). Gabriel built and maintained it on his own time and effort, and it has been useful to many developers since.
 
-After some time, and with personal stuff pulling his attention elsewhere, Gabriel decided to pass the torch. [@ivanhercaz](https://github.com/ivanhercaz) stepped in to continue the work, and together they agreed to move the project under this organization to give it a neutral, community-oriented home.
+After some time, as other personal commitments took priority, Gabriel decided to pass the torch. [@ivanhercaz](https://github.com/ivanhercaz) stepped in to continue the work, and together they agreed to move the project under this organization to give it a neutral, community-oriented home.
 
-Gabriel remains credited as the original author and is always welcome to contribute. This transition is a handoff, not a fork, and the project carries its full history with it.
+Gabriel remains credited as the original author and is always welcome to contribute. This transition is a handoff, not a fork, and the project
+carries its full history with it.
 
 ## What lives here
 
@@ -16,7 +34,7 @@ Right now, the organization hosts a single package:
 
 - **[esp_provisioning_ble](https://github.com/ESP-Provisioning-BLE/esp_provisioning_ble)**: A Flutter/Dart package for Wi-Fi provisioning over BLE on Espressif devices, using the ESP-IDF Unified Provisioning protocol.
 
-The organization is not closed to growing. If related tooling emerges around ESP BLE provisioning, this could become a home for that too.
+This organization is open to growing. If related tooling emerges around ESP BLE provisioning, this could become a home for that too.
 
 ## Current status
 
